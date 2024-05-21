@@ -1,6 +1,7 @@
 My First Game
 
 This is a simple game created using Pygame. The game involves a character navigating obstacles to score points.
+
 Description
 
 The game consists of the following components:
