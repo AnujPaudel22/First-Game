@@ -40,7 +40,7 @@ initial Screen:
 
 ![initial screen](ss/1.png)
 
-playing Screen:
+Playing Screen:
 
 ![Playing Screen](ss/2.png)
 
