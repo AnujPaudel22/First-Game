@@ -38,7 +38,7 @@ Screenshots:
 
 initial Screen:
 
-![initial screen](ss/1.png\)
+![initial screen](ss/1.png)
 
 playing Screen:
 
