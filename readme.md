@@ -38,15 +38,15 @@ Screenshots:
 
 initial Screen:
 
-![initial screen](ss\1.png\)
+![initial screen](ss/1.png\)
 
 playing Screen:
 
-![Playing Screen](ss\2.png)
+![Playing Screen](ss/2.png)
 
 Game Over Screen:
 
-![Game Over Screen](ss\3.png)
+![Game Over Screen](ss/3.png)
 
 Credits
 
