@@ -34,6 +34,20 @@ Controls
 
     Press the spacebar to make the player character jump.
 
+Screenshots:
+
+initial Screen:
+
+![initial screen] ss\1.png\
+
+playing Screen:
+
+![Playing Screen] ss\2.png
+
+Game Over Screen:
+
+![Game Over Screen] ss\3.png
+
 Credits
 
-This game was created by [Your Name]. It utilizes the Pygame library for graphics and event handling.
+This game was created by Anuj Paudel. It utilizes the Pygame library for graphics and event handling.
